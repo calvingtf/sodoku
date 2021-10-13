@@ -1,6 +1,6 @@
 ## Sudoku-GUI-Solver
 
-Solving Sudoku by using backtracking algorithm
+Solving Sudoku by using backtracking algorithm in Python
 
 Run Solver.py for the solving sodoku <br>
 Run GUI.py for Sudoku-GUI-Solver
